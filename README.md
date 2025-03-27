@@ -79,8 +79,8 @@ Decrypted Message: Hello, Bob!
 Contributions are welcome! If you find any issues or have suggestions, feel free to create a pull request or open an issue on GitHub.
 
 ## Author
-**GitHub:** [@Ragha8951](https://github.com/Ragha8951)  
-**Email:** [ragha8951@gmail.com](mailto:ragha8951@gmail.com)
+**GitHub:** [@saibalaji-21](https://github.com/saibalaji-21)  
+**Email:** [wihelmsai@gmail.com](mailto:wihelmsai@gmail.com)
 
 Thank you for visiting ❤️
 
